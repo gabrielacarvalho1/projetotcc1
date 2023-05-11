@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "tcc1.pbt";
+@end;
+DefaultTarget "tcc1.pbt";
+DefaultRemoteTarget "tcc1.pbt";
